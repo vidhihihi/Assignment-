@@ -8,7 +8,3 @@ A1.insert(2,1)
 print(A1)
 del A1[1]
 print(A1)
-Amish=["melluha","naags","vayuputras"]
-print(Amish)
-Jenny=["the summmer","always summer","its not summer"]
-print(Jenny+Amish)
